@@ -35,8 +35,3 @@ In addition to these, AutoML frameworks like **AutoKeras** and **AutoGluon** wer
 
 The performance of each machine learning algorithm and AutoML tool was evaluated based on accuracy, efficiency, and suitability for different types of data visualizations. The final deployment includes a web app that users can access to automatically generate recommended visualizations.
 
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
